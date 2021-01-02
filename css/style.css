@@ -12,6 +12,10 @@ h5,
 h6 {
   color: #1e1e1e;
 }
+.ko {
+  color: black
+}
+
 
 a {
   color: #1e1e1e;
@@ -129,7 +133,8 @@ a:hover {
   background-position: center;
 }
 .jj {
-  background-image: url("../img/ladybug.jpg");
+  background-color: rgb(12, 8, 241);
+  /* background-image: url("../img/st.jpg"); */
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
@@ -989,7 +994,7 @@ footer .credits a {
 }
 #bout .info {
   font: 17px 'librebaskerville-italic', serif;
-  color: #7E7881;
+  color:Black;
   margin-bottom: 19px;
   margin-top: 10px;
 }
@@ -1101,7 +1106,7 @@ ul#topbar li.active a {
 
 #bout {
   
-  background: rgb(98, 148, 241);
+  background: rgb(54,121,242);
   padding-top: 5px;
   padding-bottom: 3px;
   overflow: hidden;

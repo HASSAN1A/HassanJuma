@@ -1115,12 +1115,13 @@ ul#topbar li.active a {
 .profile-pic{
   height: 141px;
   width: 141px;
-  border-radius: 76px; 
+  border-radius: 76px;
   margin:auto;
-  background-image: url(../img/ko.jpg); 
-  background-size: cover; 
-  background-position: center center; 
+  background-image: url(../img/ko.jpg);
+  background-size: cover;
+  background-position: center;
   box-shadow: black 2px 1px 10px;
+
 }
 #bout h3,#works h2{
   font: 31px "Nothing You Could Do", cursive;

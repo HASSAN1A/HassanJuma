@@ -1120,7 +1120,8 @@ ul#topbar li.active a {
   background-image: url(../img/ko.jpg);
   background-size: cover;
   background-position: center;
-  box-shadow: black 2px 1px 10px;
+  
+  align-items: left;
 
 }
 #bout h3,#works h2{

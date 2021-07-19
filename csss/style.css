@@ -1113,8 +1113,8 @@ ul#topbar li.active a {
   display: block;
 }
 .profile-pic{
-  height: 100%;
-  width: 100%;
+  height: 140px;
+  width: 140px;
   border-radius: 76px;
   margin:auto;
   background-image: url(../img/ko.png);
